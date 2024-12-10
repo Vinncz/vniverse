@@ -658,10 +658,10 @@ export const home: RequiredDataFromCollectionSlug<'pages'> = {
     },
   ],
   meta: {
-    description: 'An open-source website built with Payload and Next.js.',
+    description: 'One place for everything Vin.',
     // @ts-ignore
     image: '{{IMAGE_1}}',
-    title: 'Payload Website Template',
+    title: 'vNiverse',
   },
   title: 'Home',
 }
